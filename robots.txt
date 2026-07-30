@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Luferuo.github.io/snippets-kdwxyt/sitemap.xml
